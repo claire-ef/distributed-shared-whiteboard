@@ -1,5 +1,5 @@
 ## Distributed Shared Whiteboard
-
+![alt text](https://github.com/claire-ef/distributed-shared-whiteboard/blob/main/demo.png)
 This repository contains the code for a distributed shared whiteboard. The manager can create a canvas; users can request to join the whiteboard. Multiple users are able to draw different shapes and type text anywhere on an interactive canvas. They can also communicate with each other in a chat window at the same time. The manager can get access to file management and user management features.
 
 Class design can be found in the report included in this repository.
