@@ -5,5 +5,5 @@ This repository contains the code for a distributed shared whiteboard. The manag
 Class design can be found in the report included in this repository.
 
 The executable jar files used to run the system are included:
-* Command to start the server (manager): > java –jar CreateWhiteBoard.jar <ip> <port> <username>
-* Command to start the client (user): > java –jar JoinWhiteBoard.jar <ip> <port> <username>
+* Command to start the server (manager): '''> java –jar CreateWhiteBoard.jar <ip> <port> <username>'''
+* Command to start the client (user): > '''java –jar JoinWhiteBoard.jar <ip> <port> <username>'''
